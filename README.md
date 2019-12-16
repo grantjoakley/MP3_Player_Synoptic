@@ -22,11 +22,11 @@ QA Synoptic Project
 
 - Model showing the way the user may interact with the MP3 Player
 
-![UML Diagram](Planning/Sequence Diagram Mp3.jpg)
+![UML Diagram](Planning/SequenceDiagramMp3.jpg)
 
 - Prototype Interface Design
 
-![UML Diagram](Planning/Mp3 Prototype.png)
+![UML Diagram](Planning/Mp3Prototype.png)
 
 # Development still required
 
