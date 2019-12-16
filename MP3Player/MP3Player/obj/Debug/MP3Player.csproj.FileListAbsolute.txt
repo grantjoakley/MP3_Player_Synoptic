@@ -1,0 +1,13 @@
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\MP3Player.exe.config
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\MP3Player.exe
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\MP3Player.pdb
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.csprojAssemblyReference.cache
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.Properties.Resources.resources
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.GenerateResource.cache
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.exe
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.pdb
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.InterfaceForm.resources
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\policy.2.0.taglib-sharp.dll
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\taglib-sharp.dll
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\bin\Debug\policy.2.0.taglib-sharp.config
+C:\Users\Grant\Desktop\MP3 Player\MP3Player\MP3Player\obj\Debug\MP3Player.csproj.CopyComplete
